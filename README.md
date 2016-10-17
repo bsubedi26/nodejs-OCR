@@ -1,2 +1,2 @@
 # nodejs-OCR
-A useful program for Optical Character Recognition for images using Node.js
+A useful program for converting images and saving them as text files
